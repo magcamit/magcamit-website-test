@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: magcamit
-  theme_night: magcamit
+  theme_day: forest
+  theme_night: minimal
   font: magcamit
   font_size: M
 
@@ -68,9 +68,9 @@ features:
   diagram:
     enable: false
   privacy_pack:
-    enable: false
+    enable: true
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/magcamit/magcamit.github.io/'
     content_dir: content
     branch: master
   avatar:

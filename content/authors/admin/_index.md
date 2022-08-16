@@ -12,9 +12,22 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.nz/citations?user=8SSiIWcAAAAJ&hl=en
+    label: Google Scholar profile
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Michael-Magcamit
+    icon_pack: ai
+    icon: researchgate
+    label: ResearchGate profile
+  - display:
+      header: false
+    link: https://www.instagram.com/michael.magcamit/
+    icon_pack: fab
+    icon: instagram
+    label: instagram profile
 organizations:
-- name: University of Leicester
-  url: https://le.ac.uk/people/michael-magcamit
+  - name: University of Leicester
+    url: https://le.ac.uk/people/michael-magcamit
 education:
   courses:
     - course: PhD
