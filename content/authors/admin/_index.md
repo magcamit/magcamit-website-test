@@ -4,10 +4,10 @@ role: Lecturer in Security Studies
 bio: My research sits at the intersection of International Security, Conflict, Development, and Foreign Policy Studies with a specialist focus on East and Southeast Asia.
 interests:
   - International Security
-  - Conflicts
-  - Development
-  - Foreign Policy Studies
-  - East and Southeast Asia
+  - Conflict and Peace Studies
+  - International Trade and Development
+  - Foreign Policy Analysis
+  - Asia-Pacific
 social:
   - icon: graduation-cap
     icon_pack: fas
