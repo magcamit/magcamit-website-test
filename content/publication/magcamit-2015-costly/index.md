@@ -27,10 +27,21 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-16T11:51:09.946136Z'
+publishDate: '2022-08-16T12:32:43.881920Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: The Barisan Nasional's construction and implementation of ideational and
+  material security apparatuses has created a one-sided internal security dilemma
+  in Malaysia. This paper argues that the noble objective of promoting Malay interests
+  has been transformed to the venal objective of securing Barisan's political perpetuity
+  that is being pursued under the pretext of achieving inter-ethnic parity within
+  a pluralistic Malaysia. The government's quest for a bumiputra-imagined nation gave
+  birth to affirmative action policies that have often worked at the expense of all
+  other Malaysian ethnic groups, particularly the Chinese and Indian-Malaysians. For
+  better or worse, Malaysia's national security is conceived and developed on the
+  basis of bumiputra ethnicity. In other words, Malaysia's national security is designed
+  to counter mainly the insecurities confronting the Malays, thereby generating a
+  one-sided internal security dilemma.
 publication: '*Asian Affairs: An American Review*'
 links:
 - name: URL

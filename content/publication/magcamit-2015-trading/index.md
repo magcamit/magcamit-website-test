@@ -28,10 +28,25 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-16T11:51:09.862444Z'
+publishDate: '2022-08-16T12:32:43.784934Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: Singapore's rude awakening to independence has led to the creation of one
+  of the most important and strategic entrepôts in the Asia-Pacific. The country's
+  limited territorial lands and natural resources, combined with huge per capita income,
+  high population density and sensitive racial mix, make Singapore the quintessential
+  pragmatic trading state of the twenty-first century. This paper examines how Singapore
+  has embedded itself at the centre of regional and global trade systems by exploiting
+  various forms of free trade activities including multilateral, regional and bilateral
+  FTAs that underpin its security and survival. It argues that in order to maintain
+  the city-state's geo-economic and geo-political viability, the Singaporean government
+  has progressively linked its security interests with its multilevel free trade activities.
+  Given the `vulnerability fetish' and siege mentality that confront Singaporean leaders
+  and policymakers, the pursuit of economic development via free trade has become
+  the heart of its national security policy and strategy. The paper concludes by arguing
+  that the enhancement and preservation of Singapore's survival as a sovereign nation-state
+  demands a strategic utilization of FTAs with different trade partners, especially
+  with regional and trans-regional powers such as the United States and China.
 publication: '*Asian Journal of Political Science*'
 links:
 - name: URL

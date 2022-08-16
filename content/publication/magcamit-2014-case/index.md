@@ -27,10 +27,25 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-16T11:51:10.213646Z'
+publishDate: '2022-08-16T12:32:44.138695Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: This article attempts to explore and analyse the evidence for cohabiting
+  the human security concept into the national security frameworks of ASEAN countries.
+  Using the Philippines and Malaysia as case studies, the article determines the extent
+  to which public officials and policymakers have redefined and reenvisioned national
+  security by incorporating non-traditional, people-centered elements of human security.
+  The word `cohabitation' refers to national governments' efforts to amalgamate statist
+  and humanist dimensions of security when articulating and implementing their national
+  security rhetoric and agenda. It argues that human security naturally complements
+  state security, and vice versa. As such, human security and state security co-exist
+  in a constructive manner that enhances the overall level of national security. In
+  other words, they are mutually constitutive rather than mutually corrosive. Both
+  cases underscore a two-pronged assumption. First, the meaning and provision of national
+  security can neither be eloquently articulated nor completely substantiated without
+  considerations for 'below the state' actors and issues. And second, the eminent
+  status vis-à-vis power of the state in providing national security can neither be
+  trivialized nor undermined.
 publication: '*Journal of Human Security*'
 links:
 - name: URL
