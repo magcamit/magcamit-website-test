@@ -1,18 +1,20 @@
 ---
-title: Michael Magcamit
+title: Michael Intal Magcamit
 role: Lecturer in Security Studies
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research sits at the intersection of International Security, Conflict, Development, and Foreign Policy Studies with a specialist focus on East and Southeast Asia.
 interests:
-  - Security
+  - International Security
+  - Conflicts
+  - Development
+  - Foreign Policy Studies
+  - East and Southeast Asia
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.nz/citations?user=8SSiIWcAAAAJ&hl=en
-organizations: []
+organizations:
+- name: University of Leicester
+  url: https://le.ac.uk/people/michael-magcamit
 education:
   courses:
     - course: PhD
@@ -24,12 +26,8 @@ education:
     - course: BA
       institution: University of Canterbury
       year: 2008
-email: ""
+email: "mim11@leicester.ac.uk"
 superuser: true
 highlight_name: true
 ---
-Michael Magcamit is a Lecturer in Security Studies in the School of History, Politics, and International Relations (HyPIR) at the University of Leicester.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Hello! I’m Michael Magcamit, Lecturer in Security Studies in the School of History Politics and International Relations (HyPIR) at the University of Leicester. Before joining HyPIR in June 2021 I was a Marie Skłodowska-Curie Fellow at the Queen Mary University of London (2019-2021) and where I am also currently a Visiting Research Fellow (2021-2023). Prior to moving to the UK in 2019 I was an Assistant Professor of Political Science at Musashi University in Tokyo Japan (2016-2019) and taught International Relations courses on a joint program between the University of London (LSE) and Musashi. I am the author of, among others, _Ethnoreligious Otherings and Passionate Conflicts_ (OUP 2022) and _Small Powers and Trading Security_ (Palgrave/Springer 2016).
