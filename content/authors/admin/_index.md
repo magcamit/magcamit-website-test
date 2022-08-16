@@ -30,15 +30,15 @@ organizations:
     url: https://le.ac.uk/people/michael-magcamit
 education:
   courses:
-    - course: PhD
+    - course: PhD in Political Science
       institution: University of Canterbury
-      year: 2012
-    - course: MA
-      institution: University of Canterbury
-      year: 2009
+      year: 2015
+    - course: MA in International Studies
+      institution: University of the Philippines
+      year: 2010
     - course: BA
-      institution: University of Canterbury
-      year: 2008
+      institution: University of the Philippines
+      year: 2006
 email: "mim11@leicester.ac.uk"
 superuser: true
 highlight_name: true
