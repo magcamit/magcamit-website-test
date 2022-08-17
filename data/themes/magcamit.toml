@@ -1,38 +1,38 @@
 # Theme metadata
-name = "Xtremebytes"
+name = "Magcamit"
 
 [light]
   # Primary
-  primary = "#2e9cca"
-  background = "#f8f4f4"
+  primary = "#D22E36"
+  background = "#EFF0F2"
 
-  link = "#5da2d5"
-  link_hover = "#f78888"
+  link = "#3F7CA0"
+  link_hover = "#D22E36"
 
   # Menu
-  menu_primary = "#29648a" # "#5da2d5"
-  menu_text = "#ffffff"
-  menu_text_active = "#f78888"
-  menu_title = "#f78888"
+  menu_primary = "#D22E36"
+  menu_text = "#FFFFFF"
+  menu_text_active = "#FFC1B3"
+  menu_title = "#FFC1B3"
 
   # Home sections
-  home_section_odd = "#f8f4f4"
-  home_section_even = "#fae7e3"
+  home_section_odd = "#EFF0F2"
+  home_section_even = "#EBEBEB"
 
 [dark]
   # Primary
-  # primary = "#2e9cca"
-  background = "#25274d"
+  # primary = "#550001"
+  background = "#252527"
 
-  link = "#aaabb8"
-  link_hover = "#2e9cca"
+  link = "#3F7CA0"
+  link_hover = "#D22E36"
 
   # Menu
-  menu_primary = "#29648a"
-  menu_text = "#ffffff"
-  menu_text_active = "#2e9cca"
-  menu_title = "#aaabb8"
+  menu_primary = "#550001"
+  menu_text = "#FFFFFF"
+  menu_text_active = "#D22E36"
+  menu_title = "#D22E36"
 
   # Home sections
-  home_section_odd = "#25274d"
-  home_section_even = "#2f2f2f"
+  home_section_odd = "#252527"
+  home_section_even = "#4A4A54"

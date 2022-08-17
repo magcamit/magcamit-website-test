@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: forest
-  theme_night: minimal
+  theme_day: magcamit
+  theme_night: magcamit
   font: magcamit
   font_size: M
 
