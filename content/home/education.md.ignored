@@ -27,8 +27,8 @@ experience:
     company_url: 'https://www.canterbury.ac.nz/'
     company_logo:
     location: New Zealand
-    date_start: '2015-01-01'
-    date_end: ''
+    date_start: ''
+    date_end: '2015-01-01'
     description: |2-
         Description of the thesis.
 
@@ -37,8 +37,8 @@ experience:
     company_url: 'https://up.edu.ph/'
     company_logo:
     location: The Philippines
-    date_start: '2010-01-01'
-    date_end: ''
+    date_start: ''
+    date_end: '2010-01-01'
     description: |2-
         Description of the thesis.
 
@@ -47,8 +47,8 @@ experience:
     company_url: 'https://up.edu.ph/'
     company_logo:
     location: The Philippines
-    date_start: '2006-01-01'
-    date_end: ''
+    date_start: ''
+    date_end: '2006-01-01'
     description: |2-
         Description of the course modules taken, if necessary.
 
