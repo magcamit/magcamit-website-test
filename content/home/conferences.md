@@ -10,14 +10,14 @@ headless: true
 weight: 70
 
 title: Conferences
-subtitle:
+subtitle: Recent or upcoming
 
 design:
   columns: '2'
 
 ---
 
-## Selected Conference Presentations (Recent or upcoming)
+## Selected Conference Presentations
 
  * _American Political Science Association_ (15-18 September 2022, Montréal, Canada)<br/>Paper: [New Wars and Humanitarian Securitization in the Post-September 11 Era](https://tinyurl.com/yym2hsqe)
 

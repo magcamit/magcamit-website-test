@@ -10,6 +10,12 @@ bio: International Security, Conflict, Development, and Foreign Policy Studies w
 #  - Asia-Pacific
 social:
   - icon_pack: fab
+    icon: twitter
+    label: Twitter profile
+    link: https://twitter.com/mikemagcamit
+  - display:
+      header: false
+    icon_pack: fab
     icon: orcid
     label: Orcid ID
     link: https://orcid.org/0000-0003-1093-0933
