@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: magcamit
-  theme_night: magcamit
+  # theme_night: magcamit
   font: magcamit
   font_size: M
 
