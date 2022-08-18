@@ -11,8 +11,8 @@ main:
     url: '#research'
     weight: 20
   - name: Publications
-    url: '#publications'
-    weight: 30
+    url: '#featured'
+    weight: 25
   - name: Supervision
     url: '#supervision'
     weight: 40

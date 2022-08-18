@@ -4,11 +4,26 @@
 title: "Trading in Paranoia: Exploring Singapore's Security-Trade Linkages in the\
   \ Twenty-first Century"
 subtitle: ''
-summary: ''
+summary: "Singapore's rude awakening to independence has led to the creation of one\
+\  of the most important and strategic entrepôts in the Asia-Pacific. The country's\
+\  limited territorial lands and natural resources, combined with huge per capita income,\
+\  high population density and sensitive racial mix, make Singapore the quintessential\
+\  pragmatic trading state of the twenty-first century. This paper examines how Singapore\
+\  has embedded itself at the centre of regional and global trade systems by exploiting\
+\  various forms of free trade activities including multilateral, regional and bilateral\
+\  FTAs that underpin its security and survival. It argues that in order to maintain\
+\  the city-state's geo-economic and geo-political viability, the Singaporean government\
+\  has progressively linked its security interests with its multilevel free trade activities.\
+\  Given the `vulnerability fetish' and siege mentality that confront Singaporean leaders\
+\  and policymakers, the pursuit of economic development via free trade has become\
+\  the heart of its national security policy and strategy. The paper concludes by arguing\
+\  that the enhancement and preservation of Singapore's survival as a sovereign nation-state\
+\  demands a strategic utilization of FTAs with different trade partners, especially\
+\  with regional and trans-regional powers such as the United States and China."
 authors:
 - Michael Intal Magcamit
 tags: []
-categories: []
+categories: ["(In)Security and World Trade Politics"]
 date: '2015-01-01'
 lastmod: 2022-08-16T20:51:09+09:00
 featured: false

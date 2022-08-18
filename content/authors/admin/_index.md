@@ -9,7 +9,13 @@ bio: International Security, Conflict, Development, and Foreign Policy Studies w
 #  - Foreign Policy Analysis
 #  - Asia-Pacific
 social:
-  - icon: graduation-cap
+  - icon_pack: fab
+    icon: orcid
+    label: Orcid ID
+    link: https://orcid.org/0000-0003-1093-0933
+  - display:
+      header: false
+    icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.nz/citations?user=8SSiIWcAAAAJ&hl=en
     label: Google Scholar profile

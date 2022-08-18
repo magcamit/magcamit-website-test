@@ -3,11 +3,22 @@
 
 title: "A Costly Affirmation: Exploring Malaysia's One-Sided Domestic Security Dilemma"
 subtitle: ''
-summary: ''
+summary: "The Barisan Nasional's construction and implementation of ideational and\
+\  material security apparatuses has created a one-sided internal security dilemma\
+\  in Malaysia. This paper argues that the noble objective of promoting Malay interests\
+\  has been transformed to the venal objective of securing Barisan's political perpetuity\
+\  that is being pursued under the pretext of achieving inter-ethnic parity within\
+\  a pluralistic Malaysia. The government's quest for a bumiputra-imagined nation gave\
+\  birth to affirmative action policies that have often worked at the expense of all\
+\  other Malaysian ethnic groups, particularly the Chinese and Indian-Malaysians. For\
+\  better or worse, Malaysia's national security is conceived and developed on the\
+\  basis of bumiputra ethnicity. In other words, Malaysia's national security is designed\
+\  to counter mainly the insecurities confronting the Malays, thereby generating a
+\  one-sided internal security dilemma."
 authors:
 - Michael Magcamit
 tags: []
-categories: []
+categories: ["(In)Security and World Trade Politics"]
 date: '2015-01-01'
 lastmod: 2022-08-16T20:51:10+09:00
 featured: false
