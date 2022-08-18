@@ -18,6 +18,8 @@ design:
 ---
 
 ## Selected Conference Presentations (Recent or upcoming)
+<div style='text-align: justify'>
+<p>
 
 _American Political Science Association_ (15-18 September 2022, Montréal, Canada)<br/>Paper: New Wars and Humanitarian Securitization in the Post-September 11 Era
 
@@ -28,3 +30,6 @@ _European Consortium for Political Research_ (24-28 August 2020, Virtual)<br/>Pa
 _Midwest Political Science Association_ (4-7 April 2019, United States)<br/>Paper: The Persistence of Nation-States: Security, Religion and, Nationalism in Contemporary Southeast Asia
 
 _International Studies Association Annual Convention_ (2-7 April 2018, United States)<br/>Paper: Explaining the Three-way Linkage between Populism, Securitization and Realism
+
+</p>
+</div>
