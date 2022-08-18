@@ -16,8 +16,6 @@ design:
   columns: '2'
 
 ---
-<div style='text-align: justify'>
-<p>
 I will be happy to share my insights on current issues concerning Southeast Asian politics and conflicts and Asia-Pacific foreign policy and international trade. Below are examples of my engagement activities:
 
 ### Interviews/Webinars
@@ -40,6 +38,3 @@ I will be happy to share my insights on current issues concerning Southeast Asia
  * LSE & Global Society Blog, Parallels Between Religion and Nationalism, 13 September 2019<br/>Link: https://blogs.lse.ac.uk/religionglobalsociety/2019/09/faith-allegiance-obedience-parallels-between-religion-and-nationalism/
  * The Asia Dialogue, Rodrigo Duterte and the Making of a Populist Demigod Parts 1 and 2, 17 March 2017.<br/>Link: https://theasiadialogue.com/2017/03/17/rodrigo-duterte-and-the-making-of-a-populist-demigod-part-1/
  * University of the Philippines Forum, The Enduring Curse of Patronage Politics, University of the Philippines Forum, 30 April 2016.<br/>Link: https://halalan.up.edu.ph/the-enduring-curse-of-patronage-politics-why-filipinos-should-not-elect-a-patrimonial-president-in-the-2016-elections/
-
-</p>
-</div>
