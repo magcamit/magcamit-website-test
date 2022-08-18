@@ -17,7 +17,7 @@ design:
 
 ---
 
-## Selected Conference Presentations
+### Selected Conference Presentations
 
  * _American Political Science Association_ (15-18 September 2022, Montréal, Canada)<br/>Paper: [New Wars and Humanitarian Securitization in the Post-September 11 Era](https://tinyurl.com/yym2hsqe)
 
